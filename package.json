@@ -1,0 +1,18 @@
+{
+  "name": "telgram_bot_and_arduino",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "This project contains the main code, allowing you to modify and add features according to your needs.",
+  "dependencies": {
+    "@serialport/parser-readline": "^13.0.0",
+    "dotenv": "^16.4.7",
+    "serialport": "^13.0.0",
+    "telegraf": "^4.16.3"
+  }
+}
